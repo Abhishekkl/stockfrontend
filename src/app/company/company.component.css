@@ -1,0 +1,30 @@
+/* thead, tbody { display: block; }
+table {
+    width: 100%; 
+}
+
+tbody td, thead th {
+    width: 70%;  
+}
+
+tbody {
+    height: 450px;       
+    overflow-y: auto;    
+    overflow-x: hidden;
+} */
+
+.disblk { display: block; }
+
+.tablewidth {
+    width: 100%; 
+}
+
+.tablewidth70 {
+    width: 70%;  
+}
+
+.tbodyflow {
+    height: 450px;       
+    overflow-y: auto;    
+    overflow-x: auto;
+}
